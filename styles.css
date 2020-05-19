@@ -44,7 +44,7 @@ h1 {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: var(--primary-color) url('/earth.jpg') no-repeat center center/cover;
+    background: var(--primary-color) url('https://lh3.googleusercontent.com/cc_L9OGL09q9q7JDEOGuwCF1YgV7L6j4YRAKmhcfgTiK9zZnzUAHwJ6noO3puXYjLw8LhWyDjwaZvjvY38cQVgNOQVXgZ1cR8HPLbbMOUxoWttUuhKdYWO_ORezhTS6y35TZllCxlkIpTIFqynrgRnAtNLEWILqDdNyLWAIip8nDd2SclLnroxuAy4aiAB-w_KwXEU6YG3MmCSMNmugBTlYkBhcKPTd1jncgLc4O4TyRUfonskH76IZ5OCKEMetTTETUBhWQXVACisESMmwpAyEZN37XigF7kU4H0PcoA9n_A8awgvoCoiD9tyyT66gek6lWPe8bT4ayJm_WSJEky8gbfCFGpia4PrqEqBIMSdDtAfNaFOH1hOiW5WysUPi0JordEY5Dva2KwOkmLhaAryOgXbdMvN4xaqDqvg_MLvX1crwtHKI_Sdo01HzNuZN8hvGQlXfs2Sg1fmpHAORmRddiGwqxlr_seaY8m7cxTHzJLs0WgRHhCOYNFdhI_wlVSGsDZM1jsOEtBq5Dyk2BMK0CMwb0sr7GozABOaZmNhIR6GusONJr7knsqVfTK3VxZH9ktlkRpDLPDH-eZyIgdfTy35va97bsM4VV-fcJp0dcTChqTsaC_cEx2Q2zjORmdAPH_Nlxy3QZXqRwJun-lrZGjkEAnmOFsv5tdlgtvlPbPPN69rWG38bc57Uefw=w1113-h625-no?authuser=0') no-repeat center center/cover;
 }
 
 .video-container video {
